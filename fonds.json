@@ -1,0 +1,13 @@
+
+[
+  {
+    "title": "Galaxie Étoilée",
+    "preview": "https://example.com/previews/galaxie.jpg",
+    "video": "https://example.com/videos/galaxie.mp4"
+  },
+  {
+    "title": "Ville Cyberpunk",
+    "preview": "https://example.com/previews/cyberpunk.jpg",
+    "video": "https://example.com/videos/cyberpunk.mp4"
+  }
+]
